@@ -1,9 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Explora&family=Lobster&display=swap');
+
 body {
     background-color: #ffafcc;
+    font-family: 'Lobster', cursive;
+font-size: 20px;
+/*tamanho da fonte */
+font-weight: bold;
+/* fonte em negrito */
+text-align: center;
+/* ajustar posição do texto */
+
 }
 
+
 h1 {
-    border: red 10px dashed;
+    border: red 2px solid;
 }
 
 .text1 {
